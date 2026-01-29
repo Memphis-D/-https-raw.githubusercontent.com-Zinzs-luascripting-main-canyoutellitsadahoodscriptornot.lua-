@@ -1,1 +1,0 @@
-# -https-raw.githubusercontent.com-Zinzs-luascripting-main-canyoutellitsadahoodscriptornot.lua-
